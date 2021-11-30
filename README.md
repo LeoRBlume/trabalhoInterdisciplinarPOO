@@ -11,7 +11,7 @@
 
 ## Como configurar a aplicação: 
 ### 1. Configurando a aplicação em Java: 
-#### Caso precise configurar o JavaFX: https://www.youtube.com/watch?v=9XJicRt_FaI&ab_channel=BroCode
+#### Caso precise configurar o JavaFX: https://youtu.be/9XJicRt_FaI
 <br/>
 
 ### 2. Configurando o python: 
