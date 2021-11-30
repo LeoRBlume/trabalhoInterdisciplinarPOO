@@ -1,5 +1,14 @@
 # Trabalho Interdisciplinar de POO e PEA
 
+## Integrantes:
+### Gabriela Carvalho Katakura
+### Kleber C. dos Santos 
+### Leonardo Franco de Oliveira Marques 
+### Leonardo Ribeiro Blume 
+### Luiz Felipe Silva Santos 
+### Pedro Henrique Nakata 
+### Pedro Leandro de A. Cruz 
+<br>
 ## Explicando os arquivos: <br/>
 
 ### 1. ProjetoInterPOO: Arquivo que possui o programa em Java
