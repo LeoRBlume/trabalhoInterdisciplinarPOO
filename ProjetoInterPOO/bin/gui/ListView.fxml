@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox prefHeight="469.0" prefWidth="610.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.ListarViewController">
+   <children>
+      <Label text="Lista dos Calculos">
+         <font>
+            <Font size="20.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="10.0" top="10.0" />
+         </VBox.margin>
+      </Label>
+      <TableView fx:id="tableViewCalculo" prefHeight="200.0" prefWidth="200.0">
+        <columns>
+          <TableColumn fx:id="tableColumnName" prefWidth="75.0" text="Nome" />
+          <TableColumn fx:id="tableColumnSexo" prefWidth="75.0" text="Genero" />
+            <TableColumn fx:id="tableColumnAcMasc" prefWidth="153.0" text="Acur. Masculino" />
+            <TableColumn fx:id="tableColumnAcFem" prefWidth="132.0" text="Acur. Feminino" />
+        </columns>
+      </TableView>
+   </children>
+</VBox>
